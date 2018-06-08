@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on </title>
+    <link>/publication_types/6/</link>
+    <description>Recent content in 6 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fast Structured Tracker With Improved Motion Model Using Robust Kalman Filter</title>
+      <link>/publication/bogun20166/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bogun20166/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Higher-Order Model for Fluid Motion Estimation</title>
+      <link>/publication/wei2011iciar/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wei2011iciar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

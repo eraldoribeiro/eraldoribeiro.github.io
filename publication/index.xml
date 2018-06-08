@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on </title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A variational approach to non-rigid image registration with Bregman divergences and multiple features</title>
+      <link>/publication/ferreira2018237/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ferreira2018237/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Recognition of Pollen Grain Z-Stacks by Combining CNN and RNN</title>
+      <link>/publication/daoodandribeiro_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/daoodandribeiro_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Neural Networks to Include Semantic Information into Classification</title>
+      <link>/publication/ribeiroetal_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribeiroetal_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Nonrigid Registration with Bregman Divergences</title>
+      <link>/publication/daniela_2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/daniela_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anuran Call Classification with Deep Learning</title>
+      <link>/publication/tomasini_2016a/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tomasini_2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Robust Anuran Classification by Extracting MSER Feature Pairs from Audio Spectrograms</title>
+      <link>/publication/tomasini_2016b/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tomasini_2016b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated robust Anuran classification by extracting elliptical feature pairs from audio spectrograms</title>
+      <link>/publication/tomasinismbr17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tomasinismbr17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Non Rigid Registration with Bregman Divergences</title>
+      <link>/publication/ferreira_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ferreira_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object-Aware Tracking</title>
+      <link>/publication/bogunicpr2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bogunicpr2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pollen Recognition Using a Multi-Layer Hierarchical Classifier</title>
+      <link>/publication/daoodicpr16b/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/daoodicpr16b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pollen Recognition in Optical Microscopy by Matching Multifocal Image Sequences</title>
+      <link>/publication/daoodicpr2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/daoodicpr2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of Football Supporters from Twitter Conversations</title>
+      <link>/publication/diego2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/diego2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBestStruck: M-Best Diverse Sampling for Structured Tracker</title>
+      <link>/publication/bogunbmvc16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bogunbmvc16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RobStruck: Improving occlusion handling of structured tracking-by-detection using robust Kalman filter</title>
+      <link>/publication/bogun_2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bogun_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Spatio-Temporal Relationships Among Activities in Videos Using Relational Topic-Transition Model</title>
+      <link>/publication/kularandribeiro_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kularandribeiro_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Structured Tracker With Improved Motion Model Using Robust Kalman Filter</title>
+      <link>/publication/bogun20166/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bogun20166/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pollen Grain Recognition Based on a Multi-Layer Feature Decomposition</title>
+      <link>/publication/daoodandribeiro_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/daoodandribeiro_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Activities in Videos Using Latent Dirichlet Allocation and Granger Causality</title>
+      <link>/publication/kularr15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kularr15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifying Frog Calls Using Gaussian Mixture Models</title>
+      <link>/publication/kularhosbr15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kularhosbr15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction Recognition Using Sparse Portraits</title>
+      <link>/publication/6977150/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/6977150/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Combined Method for Segmentation and Registration for an Advanced and Progressive Evaluation of Thermal Images</title>
+      <link>/publication/s141121950/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/s141121950/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Classification Using Sequence Alignment and Shape Context</title>
+      <link>/publication/almotairir14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/almotairir14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing Human-Object Interactions Using Sparse Subspace Clustering</title>
+      <link>/publication/bogunr13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bogunr13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting singular patterns in 2D vector fields using weighted Laurent polynomial</title>
+      <link>/publication/liur12laurent/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/liur12laurent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental variations of image moments for nonlinear image registration</title>
+      <link>/publication/weisivip12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/weisivip12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Higher-Order Model for Fluid Motion Estimation</title>
+      <link>/publication/wei2011iciar/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wei2011iciar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey on image-based continuum-body motion estimation</title>
+      <link>/publication/liu2011509/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/liu2011509/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust sequence alignment for actor-object interaction recognition: Discovering actor-object states</title>
+      <link>/publication/filipovych2011177/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovych2011177/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Meshless Method for Variational Nonrigid 2-D Shape Registration</title>
+      <link>/publication/liur10a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/liur10a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network-centric Epidemic Approach for Automated Image Label Annotation</title>
+      <link>/publication/bohlol2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bohlol2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Consistency Regularizer for Meshless Nonrigid Image Registration</title>
+      <link>/publication/liu2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/liu2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Nonrigid Shape Deformation Using Moments</title>
+      <link>/publication/liur10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/liur10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale and rotation invariant detection of singular patterns in vector flow fields</title>
+      <link>/publication/liu2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/liu2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Tuboid Shapes for Action Recognition</title>
+      <link>/publication/roman_isvc/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roman_isvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the Scale of Interest Regions in Videos</title>
+      <link>/publication/roman_icip/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roman_icip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Structural Models in Multiple Projection Spaces</title>
+      <link>/publication/filipovychr09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovychr09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Image-Based Method for Laboratory Screening of Coating Libraries for Adhesion of Algae and Bacterial Biofilms</title>
+      <link>/publication/combinatorial/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/combinatorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Constrained Substructures in Bayesian Trees Using the E.M. Algorithm</title>
+      <link>/publication/filipovych2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovych2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning human motion models from unsegmented videos</title>
+      <link>/publication/filipovychr08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovychr08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing primitive interactions by exploring actor-object states</title>
+      <link>/publication/filipovychr08a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovychr08a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laboratory Screening of Coating Libraries for Algal Adhesion </title>
+      <link>/publication/biofouling/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/biofouling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Models of Pose and Dynamics for Human Motion Recognition</title>
+      <link>/publication/filipovychr07a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovychr07a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coral Reef Texture Classification Using Support Vector Machines</title>
+      <link>/publication/mehtaribeiroetal_visapp07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mehtaribeiroetal_visapp07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Motion Recognition Using Isomap and Dynamic Time Warping</title>
+      <link>/publication/blackburnr07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/blackburnr07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Basic Patterns from Repetitive Texture Surfaces Under Non-Rigid Deformations. </title>
+      <link>/publication/filipovychandribeiro_2007b/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovychandribeiro_2007b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Repetitive Patterns for Classifying Non-Rigidly Deforming Texture Surfaces.</title>
+      <link>/publication/filipovychandribeiro_2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovychandribeiro_2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Combination of Visual Cues for Object Classification</title>
+      <link>/publication/filipovychr07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/filipovychr07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision for Nanoscale Imaging.</title>
+      <link>/publication/ribeiroandshah06/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribeiroandshah06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Textures Distorted by WaterWaves</title>
+      <link>/publication/donatedr06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/donatedr06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Reconstruction of Images Distorted by Water Waves.</title>
+      <link>/publication/donateribeirovisapp06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/donateribeirovisapp06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viewing Scenes Occluded by Smoke</title>
+      <link>/publication/donater06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/donater06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evidence Combining Approach to Shape-from-Shading</title>
+      <link>/publication/ribeirosh02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribeirosh02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting multiple texture planes using local spectral distortion.</title>
+      <link>/publication/ribeirorh02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribeirorh02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eigenvector method for texture recognition</title>
+      <link>/publication/carcassonirh02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/carcassonirh02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Perpective Pose of Texture Planes using Spectral Analysis on the Unit Sphere</title>
+      <link>/publication/ribe2002a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2002a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture Recognition Through Model Analysis of Spectral Peak Patterns</title>
+      <link>/publication/carcassoni_etal2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/carcassoni_etal2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape from Periodic Texture Using the Eigenvectors of Local Affine Distortion</title>
+      <link>/publication/ribe2001a/</link>
+      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2001a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Curved Textured Surfaces Using Local Spectral Distortion</title>
+      <link>/publication/ribe2001b/</link>
+      <pubDate>Thu, 01 Mar 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2001b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scale Adaptive Method for Focusing Spectral Peaks</title>
+      <link>/publication/ribe2000e/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Scale by Minimising Spectral Defocusing for Shape from Texture</title>
+      <link>/publication/ribe2000i/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Eigendecomposition Method for Shape-from-Texture</title>
+      <link>/publication/ribe2000g/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape-from-Texture from Eigenvectors of Spectral Distortion</title>
+      <link>/publication/ribe2000j/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture Plane Orientation from Spectral Accumulation</title>
+      <link>/publication/ribe2000f/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curvature estimation using shape-from-texture</title>
+      <link>/publication/ribe2000h/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Spectral Scale for Shape from Texture</title>
+      <link>/publication/ribe2000c/</link>
+      <pubDate>Thu, 01 Jun 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perspective Pose from Spectral Voting</title>
+      <link>/publication/ribe2000d/</link>
+      <pubDate>Thu, 01 Jun 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Multiple Texture Planes using Local Spectral Distortion</title>
+      <link>/publication/ribeiroh00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribeiroh00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the 3D orientation from texture planes using local spectral analysis</title>
+      <link>/publication/ribe2000b/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved orientation estimation for texture planes using multiple vanishing points</title>
+      <link>/publication/ribe2000a/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe2000a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scale Adaptive Method for Estimating the Perspective Pose of Texture Planes</title>
+      <link>/publication/ribe99d/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe99d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Pose Estimation for Texture Planes Using Multiple Vanishing Points</title>
+      <link>/publication/ribe99c/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe99c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved orientation estimation for texture planes using multiple vanishing points</title>
+      <link>/publication/ribe99b/</link>
+      <pubDate>Wed, 01 Sep 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe99b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accumulating Spectral Evidence for Perspective Views of Texture Planes</title>
+      <link>/publication/ribeiroh99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribeiroh99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating vanishing point from the angular correlation of spectral texture distribution</title>
+      <link>/publication/ribe98b/</link>
+      <pubDate>Thu, 01 Oct 1998 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe98b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-D Planar orientation from texture: estimating vanishing point from local spectral analysis</title>
+      <link>/publication/ribe98a/</link>
+      <pubDate>Tue, 01 Sep 1998 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe98a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analise de textura em imagens microscopicas de Fungos usando metodo auto-regressivo e uma comparacao com o metodo classico de estimacao espectral</title>
+      <link>/publication/ribe95/</link>
+      <pubDate>Sun, 01 Oct 1995 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementacao de uma ferramenta para analise de atributos visuais em imagens texturais</title>
+      <link>/publication/ribe94b/</link>
+      <pubDate>Tue, 01 Nov 1994 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe94b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminacao de aspereza em texturas usando medidas no espectro de potencia</title>
+      <link>/publication/ribe94a/</link>
+      <pubDate>Mon, 01 Aug 1994 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ribe94a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Statistics of Textons. </title>
+      <link>/publication/dahmeribeirovisapp06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dahmeribeirovisapp06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
