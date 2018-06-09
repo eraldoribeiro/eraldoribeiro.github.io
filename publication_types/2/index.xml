@@ -2,139 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on </title>
-    <link>/publication_types/2/</link>
+    <link>https://eraldoribeiro.github.io/publication_types/2/</link>
     <description>Recent content in 2 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eraldoribeiro.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A variational approach to non-rigid image registration with Bregman divergences and multiple features</title>
-      <link>/publication/ferreira2018237/</link>
+      <link>https://eraldoribeiro.github.io/publication/ferreira2018237/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ferreira2018237/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/ferreira2018237/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Combined Method for Segmentation and Registration for an Advanced and Progressive Evaluation of Thermal Images</title>
-      <link>/publication/s141121950/</link>
+      <link>https://eraldoribeiro.github.io/publication/s141121950/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/s141121950/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/s141121950/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting singular patterns in 2D vector fields using weighted Laurent polynomial</title>
-      <link>/publication/liur12laurent/</link>
+      <link>https://eraldoribeiro.github.io/publication/liur12laurent/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/liur12laurent/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/liur12laurent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incremental variations of image moments for nonlinear image registration</title>
-      <link>/publication/weisivip12/</link>
+      <link>https://eraldoribeiro.github.io/publication/weisivip12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/weisivip12/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/weisivip12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A survey on image-based continuum-body motion estimation</title>
-      <link>/publication/liu2011509/</link>
+      <link>https://eraldoribeiro.github.io/publication/liu2011509/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>/publication/liu2011509/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/liu2011509/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust sequence alignment for actor-object interaction recognition: Discovering actor-object states</title>
-      <link>/publication/filipovych2011177/</link>
+      <link>https://eraldoribeiro.github.io/publication/filipovych2011177/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>/publication/filipovych2011177/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/filipovych2011177/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Image-Based Method for Laboratory Screening of Coating Libraries for Adhesion of Algae and Bacterial Biofilms</title>
-      <link>/publication/combinatorial/</link>
+      <link>https://eraldoribeiro.github.io/publication/combinatorial/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>/publication/combinatorial/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/combinatorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laboratory Screening of Coating Libraries for Algal Adhesion </title>
-      <link>/publication/biofouling/</link>
+      <link>https://eraldoribeiro.github.io/publication/biofouling/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/biofouling/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/biofouling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Vision for Nanoscale Imaging.</title>
-      <link>/publication/ribeiroandshah06/</link>
+      <link>https://eraldoribeiro.github.io/publication/ribeiroandshah06/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ribeiroandshah06/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/ribeiroandshah06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting multiple texture planes using local spectral distortion.</title>
-      <link>/publication/ribeirorh02/</link>
+      <link>https://eraldoribeiro.github.io/publication/ribeirorh02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ribeirorh02/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/ribeirorh02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating the Perpective Pose of Texture Planes using Spectral Analysis on the Unit Sphere</title>
-      <link>/publication/ribe2002a/</link>
+      <link>https://eraldoribeiro.github.io/publication/ribe2002a/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ribe2002a/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/ribe2002a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shape from Periodic Texture Using the Eigenvectors of Local Affine Distortion</title>
-      <link>/publication/ribe2001a/</link>
+      <link>https://eraldoribeiro.github.io/publication/ribe2001a/</link>
       <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ribe2001a/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/ribe2001a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating the 3D orientation from texture planes using local spectral analysis</title>
-      <link>/publication/ribe2000b/</link>
+      <link>https://eraldoribeiro.github.io/publication/ribe2000b/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ribe2000b/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/ribe2000b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improved orientation estimation for texture planes using multiple vanishing points</title>
-      <link>/publication/ribe2000a/</link>
+      <link>https://eraldoribeiro.github.io/publication/ribe2000a/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ribe2000a/</guid>
+      <guid>https://eraldoribeiro.github.io/publication/ribe2000a/</guid>
       <description></description>
     </item>
     
