@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pollen classification on </title>
+    <link>https://eraldoribeiro.github.io/tags/pollen-classification/</link>
+    <description>Recent content in Pollen classification on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 09 Jun 2018 18:36:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://eraldoribeiro.github.io/tags/pollen-classification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seeing Pollen Grains</title>
+      <link>https://eraldoribeiro.github.io/project/pollen/</link>
+      <pubDate>Sat, 09 Jun 2018 18:36:34 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/project/pollen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>https://eraldoribeiro.github.io/project/pollen/</loc>
+      <lastmod>2018-06-09T18:36:34-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/project/acoustic_classification/</loc>
+      <lastmod>2018-06-09T17:54:06-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://eraldoribeiro.github.io/publication/ferreira2018237/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -42,15 +60,6 @@
     <url>
     
       <loc>https://eraldoribeiro.github.io/publication/tomasini_2016a/</loc>
-      <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://eraldoribeiro.github.io/publication/tomasini_2016b/</loc>
       <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -783,8 +792,68 @@
     
     <url>
     
+      <loc>https://eraldoribeiro.github.io/tags/computer-vision/</loc>
+      <lastmod>2018-06-09T18:36:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-06-09T17:54:06-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/tags/machine-learning/</loc>
+      <lastmod>2018-06-09T18:36:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/tags/pollen-classification/</loc>
+      <lastmod>2018-06-09T18:36:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/project/</loc>
+      <lastmod>2018-06-09T18:36:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://eraldoribeiro.github.io/publication_types/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/tags/signal-analysis/</loc>
+      <lastmod>2018-06-09T17:54:06-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -802,6 +871,7 @@
     <url>
     
       <loc>https://eraldoribeiro.github.io/tags/</loc>
+      <lastmod>2018-06-09T18:36:34-04:00</lastmod>
       <priority>0</priority>
     </url>
     
