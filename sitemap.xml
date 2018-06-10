@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://eraldoribeiro.github.io/project/vectorfields/</loc>
+      <lastmod>2018-06-10T19:26:54-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://eraldoribeiro.github.io/project/image_registration/</loc>
       <lastmod>2018-06-10T11:01:00-04:00</lastmod>
     </url>
@@ -52,15 +61,6 @@
     
       <loc>https://eraldoribeiro.github.io/publication/ribeiroetal_2018/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://eraldoribeiro.github.io/publication/daniela_2017/</loc>
-      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -338,7 +338,7 @@
     
     <url>
     
-      <loc>https://eraldoribeiro.github.io/publication/liu2010/</loc>
+      <loc>https://eraldoribeiro.github.io/publication/liu2010scalerotation/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -812,6 +812,16 @@
     <url>
     
       <loc>https://eraldoribeiro.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-06-09T18:36:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/tags/deep-learning/</loc>
       <lastmod>2018-06-09T17:54:06-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -872,7 +882,7 @@
     <url>
     
       <loc>https://eraldoribeiro.github.io/project/</loc>
-      <lastmod>2018-06-10T11:01:00-04:00</lastmod>
+      <lastmod>2018-06-10T19:26:54-04:00</lastmod>
       <priority>0</priority>
     </url>
     
