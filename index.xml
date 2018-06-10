@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Image Registration</title>
+      <link>https://eraldoribeiro.github.io/project/image_registration/</link>
+      <pubDate>Sun, 10 Jun 2018 11:01:00 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/project/image_registration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seeing Pollen Grains</title>
       <link>https://eraldoribeiro.github.io/project/pollen/</link>
       <pubDate>Sat, 09 Jun 2018 18:36:34 -0400</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://eraldoribeiro.github.io/publication/bogunbmvc16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RobStruck: Improving occlusion handling of structured tracking-by-detection using robust Kalman filter</title>
-      <link>https://eraldoribeiro.github.io/publication/bogun_2016/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eraldoribeiro.github.io/publication/bogun_2016/</guid>
       <description></description>
     </item>
     
