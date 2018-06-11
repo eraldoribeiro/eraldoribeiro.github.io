@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 09 Jun 2018 18:36:34 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jun 2018 19:51:57 -0400</lastBuildDate>
     
 	<atom:link href="https://eraldoribeiro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Computer vision</title>
       <link>https://eraldoribeiro.github.io/tags/computer-vision/</link>
-      <pubDate>Sat, 09 Jun 2018 18:36:34 -0400</pubDate>
+      <pubDate>Sun, 10 Jun 2018 19:51:57 -0400</pubDate>
       
       <guid>https://eraldoribeiro.github.io/tags/computer-vision/</guid>
       <description></description>
@@ -76,6 +76,15 @@
     </item>
     
     <item>
+      <title>Pattern recognition</title>
+      <link>https://eraldoribeiro.github.io/tags/pattern-recognition/</link>
+      <pubDate>Sun, 10 Jun 2018 19:51:57 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/tags/pattern-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pollen classification</title>
       <link>https://eraldoribeiro.github.io/tags/pollen-classification/</link>
       <pubDate>Sat, 09 Jun 2018 18:36:34 -0400</pubDate>
@@ -85,11 +94,29 @@
     </item>
     
     <item>
+      <title>Shape-from-texture</title>
+      <link>https://eraldoribeiro.github.io/tags/shape-from-texture/</link>
+      <pubDate>Sun, 10 Jun 2018 19:51:57 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/tags/shape-from-texture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Signal analysis</title>
       <link>https://eraldoribeiro.github.io/tags/signal-analysis/</link>
       <pubDate>Sat, 09 Jun 2018 17:54:06 -0400</pubDate>
       
       <guid>https://eraldoribeiro.github.io/tags/signal-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture analysis</title>
+      <link>https://eraldoribeiro.github.io/tags/texture-analysis/</link>
+      <pubDate>Sun, 10 Jun 2018 19:51:57 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/tags/texture-analysis/</guid>
       <description></description>
     </item>
     

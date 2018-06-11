@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer vision on </title>
-    <link>https://eraldoribeiro.github.io/tags/computer-vision/</link>
-    <description>Recent content in Computer vision on </description>
+    <title>Pattern recognition on </title>
+    <link>https://eraldoribeiro.github.io/tags/pattern-recognition/</link>
+    <description>Recent content in Pattern recognition on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 10 Jun 2018 19:51:57 -0400</lastBuildDate>
     
-	<atom:link href="https://eraldoribeiro.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eraldoribeiro.github.io/tags/pattern-recognition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Sun, 10 Jun 2018 19:51:57 -0400</pubDate>
       
       <guid>https://eraldoribeiro.github.io/project/textures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seeing Pollen Grains</title>
-      <link>https://eraldoribeiro.github.io/project/pollen/</link>
-      <pubDate>Sat, 09 Jun 2018 18:36:34 -0400</pubDate>
-      
-      <guid>https://eraldoribeiro.github.io/project/pollen/</guid>
       <description></description>
     </item>
     

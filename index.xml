@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Analyzing Visual Texture</title>
+      <link>https://eraldoribeiro.github.io/project/textures/</link>
+      <pubDate>Sun, 10 Jun 2018 19:51:57 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/project/textures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vector Fields</title>
       <link>https://eraldoribeiro.github.io/project/vectorfields/</link>
       <pubDate>Sun, 10 Jun 2018 19:26:54 -0400</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://eraldoribeiro.github.io/publication/diego2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MBestStruck: M-Best Diverse Sampling for Structured Tracker</title>
-      <link>https://eraldoribeiro.github.io/publication/bogunbmvc16/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eraldoribeiro.github.io/publication/bogunbmvc16/</guid>
       <description></description>
     </item>
     
