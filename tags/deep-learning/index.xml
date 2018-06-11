@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep-learning on </title>
+    <title>Deep learning on </title>
     <link>https://eraldoribeiro.github.io/tags/deep-learning/</link>
-    <description>Recent content in Deep-learning on </description>
+    <description>Recent content in Deep learning on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 09 Jun 2018 17:54:06 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jun 2018 18:36:34 -0400</lastBuildDate>
     
 	<atom:link href="https://eraldoribeiro.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Classification and Analysis of Acoustic Signals</title>
-      <link>https://eraldoribeiro.github.io/project/acoustic_classification/</link>
-      <pubDate>Sat, 09 Jun 2018 17:54:06 -0400</pubDate>
+      <title>Seeing Pollen Grains</title>
+      <link>https://eraldoribeiro.github.io/project/pollen/</link>
+      <pubDate>Sat, 09 Jun 2018 18:36:34 -0400</pubDate>
       
-      <guid>https://eraldoribeiro.github.io/project/acoustic_classification/</guid>
+      <guid>https://eraldoribeiro.github.io/project/pollen/</guid>
       <description></description>
+    </item>
+    
+  </channel>
+</rss>scription></description>
     </item>
     
   </channel>
