@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Object detection on </title>
+    <link>https://eraldoribeiro.github.io/tags/object-detection/</link>
+    <description>Recent content in Object detection on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 20:35:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://eraldoribeiro.github.io/tags/object-detection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tracking objects in videos</title>
+      <link>https://eraldoribeiro.github.io/project/tracking/</link>
+      <pubDate>Sun, 10 Jun 2018 20:35:34 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/project/tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

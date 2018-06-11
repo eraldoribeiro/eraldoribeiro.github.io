@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 10 Jun 2018 19:51:57 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jun 2018 20:35:34 -0400</lastBuildDate>
     
 	<atom:link href="https://eraldoribeiro.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tracking objects in videos</title>
+      <link>https://eraldoribeiro.github.io/project/tracking/</link>
+      <pubDate>Sun, 10 Jun 2018 20:35:34 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/project/tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing Visual Texture</title>

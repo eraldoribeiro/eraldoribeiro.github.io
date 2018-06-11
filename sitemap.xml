@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://eraldoribeiro.github.io/project/tracking/</loc>
+      <lastmod>2018-06-10T20:35:34-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://eraldoribeiro.github.io/project/textures/</loc>
       <lastmod>2018-06-10T19:51:57-04:00</lastmod>
     </url>
@@ -880,6 +889,26 @@
     
     <url>
     
+      <loc>https://eraldoribeiro.github.io/tags/object-detection/</loc>
+      <lastmod>2018-06-10T20:35:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/tags/object-tracking/</loc>
+      <lastmod>2018-06-10T20:35:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://eraldoribeiro.github.io/tags/pattern-recognition/</loc>
       <lastmod>2018-06-10T19:51:57-04:00</lastmod>
       <priority>0</priority>
@@ -901,7 +930,7 @@
     <url>
     
       <loc>https://eraldoribeiro.github.io/project/</loc>
-      <lastmod>2018-06-10T19:51:57-04:00</lastmod>
+      <lastmod>2018-06-10T20:35:34-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -912,6 +941,16 @@
     
       <loc>https://eraldoribeiro.github.io/publication_types/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://eraldoribeiro.github.io/tags/robust-statistics/</loc>
+      <lastmod>2018-06-10T20:35:34-04:00</lastmod>
       <priority>0</priority>
     </url>
     
