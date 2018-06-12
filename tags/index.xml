@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 10 Jun 2018 19:51:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eraldoribeiro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated recommendation systems</title>
+      <link>https://eraldoribeiro.github.io/tags/automated-recommendation-systems/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/tags/automated-recommendation-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computer vision</title>
@@ -18,6 +27,15 @@
       <pubDate>Sun, 10 Jun 2018 19:51:57 -0400</pubDate>
       
       <guid>https://eraldoribeiro.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultural communities</title>
+      <link>https://eraldoribeiro.github.io/tags/cultural-communities/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/tags/cultural-communities/</guid>
       <description></description>
     </item>
     
@@ -63,6 +81,33 @@
       <pubDate>Sat, 09 Jun 2018 18:36:34 -0400</pubDate>
       
       <guid>https://eraldoribeiro.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network analysis</title>
+      <link>https://eraldoribeiro.github.io/tags/network-analysis/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/tags/network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network of recipes</title>
+      <link>https://eraldoribeiro.github.io/tags/network-of-recipes/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/tags/network-of-recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network science</title>
+      <link>https://eraldoribeiro.github.io/tags/network-science/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/tags/network-science/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network analysis on </title>
+    <link>https://eraldoribeiro.github.io/tags/network-analysis/</link>
+    <description>Recent content in Network analysis on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eraldoribeiro.github.io/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using network analysis to understand the relation between cuisine and culture</title>
+      <link>https://eraldoribeiro.github.io/publication/kularfood2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/publication/kularfood2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
