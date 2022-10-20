@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CSE4001 Operating Systems Concepts</title>
+      <link>https://eraldoribeiro.github.io/teaching/cse4001/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/teaching/cse4001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE5683 Computer Vision</title>
+      <link>https://eraldoribeiro.github.io/teaching/cse5683/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/teaching/cse5683/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Underwater video mosaicing using topology and superpixel-based pairwise stitching</title>
       <link>https://eraldoribeiro.github.io/publication/yanlimosaic_2018/</link>
       <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eraldoribeiro.github.io/publication/daniela_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anuran Call Classification with Deep Learning</title>
-      <link>https://eraldoribeiro.github.io/publication/tomasini_2016a/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eraldoribeiro.github.io/publication/tomasini_2016a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated robust Anuran classification by extracting elliptical feature pairs from audio spectrograms</title>
-      <link>https://eraldoribeiro.github.io/publication/tomasinismbr17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eraldoribeiro.github.io/publication/tomasinismbr17/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on </title>
+    <link>https://eraldoribeiro.github.io/teaching/</link>
+    <description>Recent content in Teachings on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://eraldoribeiro.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CSE4001 Operating Systems Concepts</title>
+      <link>https://eraldoribeiro.github.io/teaching/cse4001/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/teaching/cse4001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSE5683 Computer Vision</title>
+      <link>https://eraldoribeiro.github.io/teaching/cse5683/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://eraldoribeiro.github.io/teaching/cse5683/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
