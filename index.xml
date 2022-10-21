@@ -11,21 +11,58 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>CSE4001 Operating Systems Concepts</title>
+      <title>CSE4001</title>
       <link>https://eraldoribeiro.github.io/teaching/cse4001/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 21 Oct 2022 17:43:09 -0400</pubDate>
       
       <guid>https://eraldoribeiro.github.io/teaching/cse4001/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CSE5683 Computer Vision</title>
+      <title>CSE5683</title>
       <link>https://eraldoribeiro.github.io/teaching/cse5683/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 21 Oct 2022 17:43:02 -0400</pubDate>
       
       <guid>https://eraldoribeiro.github.io/teaching/cse5683/</guid>
-      <description></description>
+      <description>
+
+&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Topic&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Slides&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Readings&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Assignments&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
     
     <item>
