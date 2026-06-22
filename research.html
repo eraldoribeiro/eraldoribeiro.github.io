@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Research — Eraldo Ribeiro</title>
+  <meta name="description" content="Research of Dr. Eraldo Ribeiro: computational methods for learning and extracting structure from complex visual and temporal data." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">Eraldo Ribeiro</a>
+      <nav class="nav" aria-label="Primary">
+        <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+        <ul id="nav-menu" class="nav-menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="research.html" aria-current="page">Research</a></li>
+          <li><a href="publications.html">Publications</a></li>
+          <li><a href="index.html#education">Education</a></li>
+          <li><a href="index.html#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="page-head">
+      <div class="container">
+        <h1>Research</h1>
+        <p class="lede" style="max-width:62ch">
+          My research develops computational methods for <strong>learning and
+          extracting structure from complex visual and temporal data</strong>.
+          Images, video, biological signals, environmental imagery, and social
+          systems are high-dimensional — yet structured. The goal is to recover
+          that hidden structure and turn it into scientific insight.
+        </p>
+      </div>
+    </section>
+
+    <!-- Discovery pipeline -->
+    <section class="section">
+      <div class="container">
+        <h2>From data to insight</h2>
+        <p class="section-lede">
+          A common thread runs through my work: discover the latent structure in
+          raw data, then reason about it.
+        </p>
+        <ol class="pipeline" aria-label="Research pipeline">
+          <li><span>Complex data</span><small>images · video · signals · networks</small></li>
+          <li class="pipeline-arrow" aria-hidden="true">↓</li>
+          <li><span>Structure discovery</span><small>geometry · motion · interactions · networks</small></li>
+          <li class="pipeline-arrow" aria-hidden="true">↓</li>
+          <li><span>Scientific insight</span><small>understanding in science &amp; society</small></li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- Main themes -->
+    <section id="themes" class="section section--muted">
+      <div class="container">
+        <h2>Main themes</h2>
+        <p class="section-lede">Five connected lines of research.</p>
+
+        <article class="theme" id="theme-geometry">
+          <div class="theme-head"><span class="theme-num">01</span><h3>Geometry &amp; Visual Perception</h3></div>
+          <p>
+            Recovering 3-D structure and surface geometry from a single image —
+            inferring local surface orientation from the way regular
+            <strong>textures</strong> distort under perspective, estimating pose,
+            and recovering surface normals using spectral (Fourier) methods.
+          </p>
+          <ul class="tags">
+            <li>shape-from-texture</li><li>pose estimation</li><li>spectral methods</li>
+          </ul>
+          <div class="theme-pubs">
+            <span class="theme-pubs-label">Representative publications</span>
+            <ul>
+              <li>E. Ribeiro, E. R. Hancock. “Shape from Periodic Texture Using the Eigenvectors of Local Affine Distortion.” <cite>IEEE TPAMI</cite>, <span class="pub-yr">2002</span>.</li>
+              <li>E. Ribeiro, E. R. Hancock. “Estimating the Perspective Pose of Texture Planes Using Spectral Analysis on the Unit Sphere.” <cite>Pattern Recognition</cite>, <span class="pub-yr">2002</span>.</li>
+              <li>E. Ribeiro, E. R. Hancock. “Adapting Spectral Scale for Shape from Texture.” <cite>ECCV</cite>, <span class="pub-yr">2000</span>.</li>
+              <li>E. Ribeiro, F. Sartori, E. R. Hancock. “An Evidence Combining Approach to Shape-from-Shading.” <cite>ICPR</cite>, <span class="pub-yr">2002</span>.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="theme" id="theme-temporal">
+          <div class="theme-head"><span class="theme-num">02</span><h3>Temporal Understanding of Visual Data</h3></div>
+          <p>
+            Making sense of motion in video — tracking objects through occlusion,
+            recognizing human actions, and modeling how a person interacts with
+            objects over time. When someone handles an object, their motion is
+            constrained by that object’s shape and affordance — a cue for
+            <strong>actor–object interaction</strong> recognition.
+          </p>
+          <ul class="tags">
+            <li>tracking</li><li>motion</li><li>action recognition</li><li>activity discovery</li>
+          </ul>
+          <div class="theme-pubs">
+            <span class="theme-pubs-label">Representative publications</span>
+            <ul>
+              <li>R. Filipovych, E. Ribeiro. “Recognizing Primitive Interactions by Exploring Actor-Object States.” <cite>IEEE CVPR</cite>, <span class="pub-yr">2008</span>.</li>
+              <li>R. Filipovych, E. Ribeiro. “Robust Sequence Alignment for Actor-Object Interaction Recognition: Discovering Actor-Object States.” <cite>Computer Vision and Image Understanding</cite>, <span class="pub-yr">2011</span>.</li>
+              <li>R. Filipovych, E. Ribeiro. “Learning Human Motion Models from Unsegmented Videos.” <cite>IEEE CVPR</cite>, <span class="pub-yr">2008</span>.</li>
+              <li>D. Kular, E. Ribeiro. “Analyzing Activities in Videos Using Latent Dirichlet Allocation and Granger Causality.” <cite>ISVC</cite>, <span class="pub-yr">2015</span>.</li>
+              <li>I. Bogun, E. Ribeiro. “Object-Aware Tracking.” <cite>ICPR</cite>, <span class="pub-yr">2016</span>.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="theme" id="theme-recognition">
+          <div class="theme-head"><span class="theme-num">03</span><h3>Recognition &amp; Classification in Complex Domains</h3></div>
+          <p>
+            Bringing recognition methods to challenging scientific data —
+            identifying <strong>pollen grains</strong> in optical microscopy,
+            classifying <strong>coral-reef</strong> textures, and recognizing
+            frog (anuran) calls from audio <strong>spectrograms</strong> for
+            biodiversity monitoring.
+          </p>
+          <ul class="tags">
+            <li>pollen</li><li>coral reefs</li><li>bioacoustics</li><li>microscopy</li>
+          </ul>
+          <div class="theme-pubs">
+            <span class="theme-pubs-label">Representative publications</span>
+            <ul>
+              <li>J. Strout, B. Rogan, S. M. M. Seyednezhad, M. Bush, E. Ribeiro. “Anuran Call Classification with Deep Learning.” <cite>IEEE ICASSP</cite>, <span class="pub-yr">2017</span>.</li>
+              <li>A. Daood, E. Ribeiro, M. Bush. “Pollen Grain Recognition Using Deep Learning.” <cite>ISVC</cite>, <span class="pub-yr">2016</span>.</li>
+              <li>R. Filipovych, A. Daood, E. Ribeiro, M. Bush. “Pollen Recognition in Optical Microscopy by Matching Multifocal Image Sequences.” <cite>ICPR</cite>, <span class="pub-yr">2016</span>.</li>
+              <li>Z. Ferris, E. Ribeiro, T. Nagata, R. van Woesik. “ReScape: Transforming Coral-Reefscape Images for Quantitative Analysis.” <cite>Scientific Reports</cite>, <span class="pub-yr">2024</span>.</li>
+              <li>A. Mehta, E. Ribeiro, J. Gilner, R. van Woesik. “Coral Reef Texture Classification Using Support Vector Machines.” <cite>VISAPP</cite>, <span class="pub-yr">2007</span>.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="theme" id="theme-representations">
+          <div class="theme-head"><span class="theme-num">04</span><h3>Learning Representations for Complex Signals</h3></div>
+          <p>
+            Designing and compressing deep models — learning compact, efficient
+            representations through weight <strong>pruning</strong> and
+            <strong>knowledge distillation</strong>, and combining information
+            across multiple modalities.
+          </p>
+          <ul class="tags">
+            <li>deep learning</li><li>model compression</li><li>multimodal</li>
+          </ul>
+          <div class="theme-pubs">
+            <span class="theme-pubs-label">Representative publications</span>
+            <ul>
+              <li>N. Aghli, E. Ribeiro. “Combining Weight Pruning and Knowledge Distillation for CNN Compression.” <cite>IEEE/CVF CVPR Workshops</cite>, <span class="pub-yr">2021</span>.</li>
+              <li>N. Aghli, E. Ribeiro. “A Data-Driven Approach to Improve 3D Head-Pose Estimation.” <cite>ISVC</cite>, <span class="pub-yr">2021</span>.</li>
+              <li>L. Scabini, L. Ribas, E. Ribeiro, O. Bruno. “Deep Topological Embedding with Convolutional Neural Networks for Complex Network Classification.” <cite>NetSci-X</cite>, <span class="pub-yr">2022</span>.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="theme" id="theme-networks">
+          <div class="theme-head"><span class="theme-num">05</span><h3>Complex Systems &amp; Network Analysis</h3></div>
+          <p>
+            Discovering patterns in networked and social data — the temporal
+            rhythms and <strong>travelling waves of urban crime</strong>,
+            characterization of social-media communities, political influence in
+            multi-party systems, and culture networks.
+          </p>
+          <ul class="tags">
+            <li>social media</li><li>crime dynamics</li><li>culture networks</li>
+          </ul>
+          <div class="theme-pubs">
+            <span class="theme-pubs-label">Representative publications</span>
+            <ul>
+              <li>M. Oliveira, E. Ribeiro, C. Bastos-Filho, R. Menezes. “Spatio-temporal Variations in the Urban Rhythm: The Travelling Waves of Crime.” <cite>EPJ Data Science</cite>, <span class="pub-yr">2018</span>.</li>
+              <li>L. Berrisfeld, E. Ribeiro, R. Menezes. “Estimating Annual Ambient Air Pollution Using Structural Properties of Road Networks.” <cite>Environment and Planning B</cite>, <span class="pub-yr">2024</span>.</li>
+              <li>J. Faustino, H. Barbosa, E. Ribeiro, R. Menezes. “A Data-Driven Network Approach for Characterization of Political Parties’ Ideology Dynamics.” <cite>Applied Network Science</cite>, <span class="pub-yr">2019</span>.</li>
+              <li>D. K. Kular, R. Menezes, E. Ribeiro. “Using Network Analysis to Understand the Relation Between Cuisine and Culture.” <cite>IEEE Network Science Workshop</cite>, <span class="pub-yr">2011</span>.</li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Funded research -->
+    <section id="funding" class="section">
+      <div class="container">
+        <h2>Funded research</h2>
+        <p class="section-lede">
+          Selected externally funded projects, applying vision and machine
+          learning to problems in aerospace, defense, government, and industry.
+        </p>
+        <ol class="grants">
+          <li class="grant">
+            <div class="grant-top">
+              <span class="grant-sponsor">National Science Foundation (NSF)</span>
+              <span class="grant-meta"><span>2012–2015</span><span class="grant-amount">$360,000</span></span>
+            </div>
+            <h3>Automated Recognition and Mapping of Anuran (Frog) Calls <span class="grant-role">PI</span></h3>
+            <p>
+              A full platform for automated species identification and geographic
+              mapping of frog calls — integrating CNN/RNN acoustic classifiers,
+              mobile data collection, and a web-based mapping dashboard for
+              biodiversity monitoring by field biologists.
+            </p>
+            <a class="grant-theme" href="#theme-recognition">Recognition &amp; Classification in Complex Domains</a>
+          </li>
+          <li class="grant">
+            <div class="grant-top">
+              <span class="grant-sponsor">Office of Naval Research (ONR)</span>
+              <span class="grant-meta"><span>2005–2008</span><span class="grant-amount">$250,000</span></span>
+            </div>
+            <h3>Automated Image-Based Screening of Marine Coatings <span class="grant-role">PI</span></h3>
+            <p>
+              High-throughput image analysis for quantitative assessment of
+              biofouling on novel coating materials, replacing labor-intensive
+              manual scoring — using texture-based segmentation and a calibrated
+              imaging pipeline reproducible across laboratories.
+            </p>
+            <a class="grant-theme" href="#theme-recognition">Recognition &amp; Classification in Complex Domains</a>
+          </li>
+          <li class="grant">
+            <div class="grant-top">
+              <span class="grant-sponsor">Embraer, Inc.</span>
+              <span class="grant-meta"><span>2019–2021</span><span class="grant-amount">$150,000</span></span>
+            </div>
+            <h3>AI System for Passenger Identification and Behavioral Analysis <span class="grant-role">PI</span></h3>
+            <p>
+              An end-to-end deep-learning system for estimating passenger identity
+              and emotional state from aircraft cabin cameras — using multi-task
+              CNN architectures, domain adaptation for varied lighting, and model
+              compression for edge inference on embedded hardware.
+            </p>
+            <a class="grant-theme" href="#theme-representations">Learning Representations for Complex Signals</a>
+          </li>
+          <li class="grant">
+            <div class="grant-top">
+              <span class="grant-sponsor">NASA</span>
+              <span class="grant-meta"><span>2024–2025</span><span class="grant-amount">$94,000</span></span>
+            </div>
+            <h3>Computer-Vision Pipeline for Rocket-Fuel Slosh Analysis <span class="grant-role">PI</span></h3>
+            <p>
+              A GPU-accelerated vision pipeline for automated detection,
+              segmentation, and quantification of fluid-slosh dynamics from
+              high-speed video inside rocket fuel tanks, fusing vision
+              measurements with IMU sensor data against known tank geometry.
+            </p>
+            <a class="grant-theme" href="#theme-temporal">Temporal Understanding of Visual Data</a>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- Future directions -->
+    <section id="directions" class="section section--muted">
+      <div class="container">
+        <h2>Future directions</h2>
+        <div class="cards">
+          <article class="card">
+            <h3>Current focus</h3>
+            <ul class="card-list">
+              <li>Multimodal perception</li>
+              <li>Efficient deep learning &amp; model compression</li>
+              <li>AI for environmental monitoring</li>
+            </ul>
+          </article>
+          <article class="card">
+            <h3>Open challenges</h3>
+            <ul class="card-list">
+              <li>Learning from limited data</li>
+              <li>Integrating geometry and deep learning</li>
+              <li>Modeling long-term temporal structure</li>
+            </ul>
+          </article>
+        </div>
+        <div class="research-cta">
+          <p>
+            The throughline: multimodal data contains hidden structure, and
+            vision and machine learning let us discover it — enabling discovery
+            across science and society. See my
+            <a href="publications.html">publications</a> for the full record.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> Eraldo Ribeiro. Built with plain HTML &amp; CSS.</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
