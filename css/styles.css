@@ -240,6 +240,24 @@ a:hover { color: var(--accent-soft); text-decoration: underline; }
 .card-list { margin: 0; padding-left: 1.1rem; color: var(--text-soft); }
 .card-list li { margin-bottom: .3rem; }
 
+/* ---------- Research highlights ---------- */
+.highlights { display: grid; gap: 1.5rem; grid-template-columns: 1fr; }
+.highlight {
+  margin: 0; background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow);
+}
+.highlight > a { display: block; line-height: 0; border-bottom: 1px solid var(--border); }
+.highlight img {
+  width: 100%; height: auto; display: block;
+  transition: opacity .15s; background: #fff;
+}
+.highlight > a:hover img { opacity: .92; }
+.highlight figcaption { padding: 1.3rem 1.5rem; }
+.highlight figcaption h3 { margin: 0 0 .5rem; }
+.highlight figcaption p { margin: 0 0 .6rem; color: var(--text-soft); font-size: .96rem; }
+.highlight-cite { font-size: .85rem; }
+.highlight-cite cite { font-style: italic; }
+
 /* ---------- Funded research ---------- */
 .grants { list-style: none; margin: 0; padding: 0; }
 .grant {
