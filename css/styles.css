@@ -258,6 +258,33 @@ a:hover { color: var(--accent-soft); text-decoration: underline; }
 .highlight-cite { font-size: .85rem; }
 .highlight-cite cite { font-style: italic; }
 
+/* ---------- Lightbox ---------- */
+.lightbox {
+  position: fixed; inset: 0; z-index: 100;
+  display: none; align-items: center; justify-content: center;
+  padding: clamp(1rem, 4vw, 3rem);
+  background: rgba(10, 9, 8, .88); backdrop-filter: blur(4px);
+  cursor: zoom-out;
+}
+.lightbox.open { display: flex; }
+.lightbox-img {
+  max-width: 100%; max-height: 100%;
+  border-radius: 6px; box-shadow: 0 12px 48px rgba(0,0,0,.5);
+  background: #fff; cursor: default;
+}
+.lightbox-close {
+  position: absolute; top: 1rem; right: 1.25rem;
+  width: 44px; height: 44px; border: 0; border-radius: 50%;
+  background: rgba(255,255,255,.12); color: #fff; font-size: 1.8rem; line-height: 1;
+  cursor: pointer; transition: background .15s;
+}
+.lightbox-close:hover { background: rgba(255,255,255,.25); }
+body.lightbox-open { overflow: hidden; }
+@media (prefers-reduced-motion: no-preference) {
+  .lightbox.open .lightbox-img { animation: lb-in .18s ease-out; }
+  @keyframes lb-in { from { opacity: 0; transform: scale(.97); } to { opacity: 1; transform: none; } }
+}
+
 /* ---------- Funded research ---------- */
 .grants { list-style: none; margin: 0; padding: 0; }
 .grant {

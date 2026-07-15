@@ -19,6 +19,49 @@ if (toggle && menu) {
   });
 }
 
+// Lightbox for research highlights
+const lightbox = document.getElementById('lightbox');
+if (lightbox) {
+  const lbImg = lightbox.querySelector('.lightbox-img');
+  const lbClose = lightbox.querySelector('.lightbox-close');
+  let lastFocus = null;
+
+  const openLightbox = (src, alt) => {
+    lbImg.src = src;
+    lbImg.alt = alt || '';
+    lightbox.classList.add('open');
+    lightbox.setAttribute('aria-hidden', 'false');
+    document.body.classList.add('lightbox-open');
+    lbClose.focus();
+  };
+  const closeLightbox = () => {
+    lightbox.classList.remove('open');
+    lightbox.setAttribute('aria-hidden', 'true');
+    document.body.classList.remove('lightbox-open');
+    lbImg.src = '';
+    if (lastFocus) lastFocus.focus();
+  };
+
+  // Intercept clicks on highlight image links → open in lightbox
+  document.querySelectorAll('.highlight > a').forEach((link) => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      lastFocus = link;
+      const img = link.querySelector('img');
+      openLightbox(link.getAttribute('href'), img ? img.alt : '');
+    });
+  });
+
+  lbClose.addEventListener('click', closeLightbox);
+  // Click on the backdrop (but not the image) closes
+  lightbox.addEventListener('click', (e) => {
+    if (e.target === lightbox) closeLightbox();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && lightbox.classList.contains('open')) closeLightbox();
+  });
+}
+
 // Publication year filter
 const filters = document.querySelectorAll('.filter');
 const pubs = document.querySelectorAll('.pub');
