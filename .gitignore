@@ -1,1 +1,24 @@
+# macOS
 .DS_Store
+
+# Claude Code workspace
+.claude/
+
+# Local-only / not for publishing
+data/
+bjj.html
+
+# LaTeX build artifacts (e.g., in cv/)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.pyc

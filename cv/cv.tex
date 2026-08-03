@@ -1,0 +1,362 @@
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[bitstream-charter]{mathdesign}  % Charter serif
+\usepackage[margin=1in,top=0.9in,bottom=1in]{geometry}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{tabularx}
+
+% --- running footer: name --- Curriculum Vitae --- page ---
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[L]{\small\itshape Eraldo Ribeiro}
+\fancyfoot[C]{\small\itshape Curriculum Vitae}
+\fancyfoot[R]{\small\thepage}
+
+% --- letter-spaced small-caps section titles with a rule ---
+\newcommand{\cvsection}[1]{%
+  \vspace{12pt}%
+  {\normalfont\large\scshape\textls[120]{#1}}\par
+  \vspace{2pt}\hrule height 0.8pt\vspace{7pt}}
+\newcommand{\cvsubsection}[1]{%
+  \vspace{6pt}{\normalfont\scshape #1}\par\vspace{3pt}}
+
+% --- diamond-bulleted entry list with hanging indent ---
+\newlist{cvitems}{itemize}{1}
+\setlist[cvitems]{label=$\diamond$, leftmargin=1.4em, labelsep=0.6em,
+                  itemsep=4pt, parsep=0pt, topsep=4pt}
+
+% --- a plain dotted list (scholarships etc.) ---
+\setlist[itemize]{label=$\cdot$, leftmargin=1.4em, itemsep=2pt, topsep=4pt}
+
+% --- position entry: title (bold) + institution + right-aligned dates ---
+\newcommand{\role}[3]{%
+  \par\vspace{4pt}\noindent\textbf{#1}\\[1pt]%
+  \begin{tabularx}{\linewidth}{@{}Xr@{}}#2 & #3\end{tabularx}\par}
+
+\setlength{\parindent}{0pt}
+\linespread{1.04}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\scshape Eraldo Ribeiro}\\[6pt]
+  Florida Institute of Technology $\bullet$ Department of Computer Science $\bullet$ Melbourne, FL, USA\\[2pt]
+  \href{mailto:eribeiro@fit.edu}{eribeiro@fit.edu} $\bullet$ \href{mailto:eribeiro@cs.fit.edu}{eribeiro@cs.fit.edu}\\[2pt]
+  \href{https://scholar.google.com/citations?user=OhniypkAAAAJ}{Google Scholar} $\bullet$
+  \href{https://orcid.org/0000-0002-6008-3990}{ORCID: 0000-0002-6008-3990} $\bullet$
+  \href{https://github.com/eraldoribeiro}{GitHub}
+\end{center}
+\thispagestyle{fancy}
+
+\cvsection{Education}
+\textbf{University of York}, England, UK\\
+Ph.D.\ in Computer Science, 2001\\
+Dissertation: \textit{Spectral Methods for Shape-from-Texture}. Advisor: Edwin R.\ Hancock.
+
+\vspace{4pt}
+\textbf{Federal University of S\~ao Carlos (UFSCar)}, S\~ao Paulo, Brazil\\
+M.Sc.\ in Computer Science, 1995\\
+Thesis: \textit{A Spectral Approach for the Analysis of Microscopic Images}. Advisor: Paulo Est\^evao Cruvinel.
+
+\vspace{4pt}
+\textbf{Catholic University of Salvador (UCSal)}, Salvador, Brazil\\
+B.Sc.\ in Mathematics, 1992
+
+\cvsection{Research Interests}
+Computer Vision, Machine Learning, Artificial Intelligence, Data Science, Shape and
+Texture Analysis, 3-D Geometry and Visual Perception, Image Registration, Motion and
+Activity Recognition, Object Tracking, Deep Learning and Model Compression,
+Bioacoustics and Scientific Imaging, Environmental Image Analysis, Complex Networks.
+
+\cvsection{Research Grants}
+\begin{cvitems}
+  \item Computer Vision Methods for Enhancing Slosh Videos\\
+  PI: \textbf{E. Ribeiro}. Funded by NASA, 2024--2025, \$94,000.
+  \item Passenger Identification and Emotion Estimation\\
+  PI: \textbf{E. Ribeiro}. Funded by Embraer, Inc., 2019--2021, \$150,000.
+  \item Development of App and Web Interface for Automated Anuran Recognition and Mapping\\
+  PI: \textbf{E. Ribeiro}. Funded by the U.S. National Science Foundation (NSF), 2012--2017, \$360,000.
+  \item Image-Based Characterization of Marine Fouling\\
+  PI: \textbf{E. Ribeiro}. Funded by the U.S. Office of Naval Research (ONR), 2006--2009, \$250,000.
+  \item Image-Based Detection of Barnacles\\
+  PI: \textbf{E. Ribeiro}. Funded by the U.S. Office of Naval Research (ONR), 2005--2006, \$60,000.
+  \item Computer Vision Methods for Nanoscale Imaging\\
+  PI: \textbf{E. Ribeiro}. Funded by the University of Central Florida (UCF), 2004, \$11,000.
+\end{cvitems}
+
+\cvsection{Publications}
+\cvsubsection{Journal Articles}
+\begin{cvitems}
+  \item Estimating annual ambient air pollution using structural properties of road networks\\
+  L. Berrisfeld, \textbf{E. Ribeiro}. \textit{Environment and Planning B: Urban Analytics and City Science 51(9)}, 2024.
+  \item ReScape: transforming coral-reefscape images for quantitative analysis\\
+  Z. Ferris, \textbf{E. Ribeiro}. \textit{Scientific Reports 14(1):8915}, 2024.
+  \item Underwater video mosaicing using topology and superpixel-based pairwise stitching\\
+  Y. Li, C. J. Randall, R. van Woesik, \textbf{E. Ribeiro}. \textit{Expert Systems with Applications 119}, 2019.
+  \item Spatio-temporal variations in the urban rhythm: the travelling waves of crime\\
+  M. Oliveira, \textbf{E. Ribeiro}. \textit{EPJ Data Science 7(1):29}, 2018.
+  \item A variational approach to non-rigid image registration with Bregman divergences and multiple features\\
+  D. P. L. Ferreira, \textbf{E. Ribeiro}. \textit{Pattern Recognition 77}, 2018.
+  \item A combined method for segmentation and registration for an advanced and progressive evaluation of thermal images\\
+  E. Z. Barcelos, W. M. Caminhas, \textbf{E. Ribeiro}. \textit{Sensors 14(11)}, 2014.
+  \item Incremental variations of image moments for nonlinear image registration\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{Signal, Image and Video Processing 8(3)}, 2014.
+  \item Procedural 3D caves, clouds and architecture generation method based on shape grammar and morphing\\
+  T. Zawadzki, S. Nikiel, \textbf{E. Ribeiro}. \textit{GSTF Journal on Computing 3(1)}, 2013.
+  \item Detecting singular patterns in 2D vector fields using weighted Laurent polynomial\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{Pattern Recognition 45(11)}, 2012.
+  \item A survey on image-based continuum-body motion estimation\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{Image and Vision Computing 29(8)}, 2011.
+  \item Robust sequence alignment for actor-object interaction recognition: discovering actor-object states\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{Computer Vision and Image Understanding 115(2)}, 2011.
+  \item Automated image-based method for laboratory screening of coating libraries for adhesion of algae and bacterial biofilms\\
+  \textbf{E. Ribeiro}. \textit{Journal of Combinatorial Chemistry 10(4)}, 2008.
+  \item Laboratory screening of coating libraries for algal adhesion\\
+  F. Casse, \textbf{E. Ribeiro}. \textit{Biofouling 23(4)}, 2007.
+  \item Computer vision for nanoscale imaging\\
+  \textbf{E. Ribeiro}. \textit{Machine Vision and Applications 17(3)}, 2006.
+  \item Shape from periodic texture using the eigenvectors of local affine distortion\\
+  \textbf{E. Ribeiro}. \textit{IEEE Transactions on Pattern Analysis and Machine Intelligence 23(12)}, 2002.
+  \item Estimating the perspective pose of texture planes using spectral analysis on the unit sphere\\
+  \textbf{E. Ribeiro}. \textit{Pattern Recognition 35(10)}, 2002.
+  \item Detecting multiple texture planes using local spectral distortion\\
+  \textbf{E. Ribeiro}. \textit{Image and Vision Computing 20(9-10)}, 2002.
+  \item Improved orientation estimation for texture planes using multiple vanishing points\\
+  \textbf{E. Ribeiro}. \textit{Pattern Recognition 33(10)}, 2000.
+  \item Estimating the 3D orientation of texture planes using local spectral analysis\\
+  \textbf{E. Ribeiro}. \textit{Image and Vision Computing 18(8)}, 2000.
+\end{cvitems}
+\cvsubsection{Peer-Reviewed Conferences and Workshops}
+\begin{cvitems}
+  \item Using Vector Fields in the Modelling of Movements as Flows: A Case Study with Cattle Trade Networks\\
+  S. Farokhnejad, M. Oliveira, \textbf{E. Ribeiro}. \textit{Complex Networks XIV (International Workshop on Complex Networks)}, 2023.
+  \item Deep topological embedding with convolutional neural networks for complex network classification\\
+  L. Scabini, L. Ribas, \textbf{E. Ribeiro}. \textit{International Conference on Network Science (NetSci-X)}, 2022.
+  \item Combining weight pruning and knowledge distillation for CNN compression\\
+  N. Aghli, \textbf{E. Ribeiro}. \textit{IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 2021.
+  \item A data-driven approach to improve 3D head-pose estimation\\
+  N. Aghli, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2021.
+  \item A longitudinal analysis of vocabulary changes in social media\\
+  H. Hamoodat, F. Aswad, \textbf{E. Ribeiro}. \textit{Complex Networks XI}, 2020.
+  \item Communities of human migration in social media: an experiment in social sensing\\
+  F. Aswad, H. Hamoodat, \textbf{E. Ribeiro}. \textit{Complex Networks XI}, 2020.
+  \item A data-driven network approach for characterization of political parties' ideology dynamics\\
+  J. Faustino, H. Barbosa, \textbf{E. Ribeiro}. \textit{Applied Network Science 4(1):48}, 2019.
+  \item Social media vocabulary reveals education attainment of populations\\
+  H. Hamoodat, \textbf{E. Ribeiro}. \textit{International Workshop on Complex Networks}, 2019.
+  \item Sequential recognition of pollen grain Z-stacks by combining CNN and RNN\\
+  A. Daood, \textbf{E. Ribeiro}. \textit{FLAIRS Conference}, 2018.
+  \item Using neural networks to include semantic information into classification\\
+  \textbf{E. Ribeiro}. \textit{FLAIRS Conference}, 2018.
+  \item Variational nonrigid registration with Bregman divergences\\
+  D. P. L. Ferreira, \textbf{E. Ribeiro}. \textit{ACM Symposium on Applied Computing (SAC)}, 2017.
+  \item Anuran call classification with deep learning\\
+  J. Strout, B. Rogan, S. M. M. Seyednezhad, K. Smart, M. Bush, \textbf{E. Ribeiro}. \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 2017.
+  \item Automated robust Anuran classification by extracting elliptical feature pairs from audio spectrograms\\
+  M. Tomasini, K. Smart, R. Menezes, M. Bush, \textbf{E. Ribeiro}. \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 2017.
+  \item Classifying pollen using robust sequence alignment of sparse Z-stack volumes\\
+  A. Daood, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2016.
+  \item Pollen grain recognition using deep learning\\
+  A. Daood, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2016.
+  \item Pollen recognition using a multi-layer hierarchical classifier\\
+  A. Daood, \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2016.
+  \item Object-aware tracking\\
+  I. Bogun, \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2016.
+  \item Pollen recognition in optical microscopy by matching multifocal image sequences\\
+  R. Filipovych, A. Daood, \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2016.
+  \item Characterization of football supporters from Twitter conversations\\
+  D. F. Pacheco, D. Pinheiro, F. B. de Lima-Neto, \textbf{E. Ribeiro}. \textit{IEEE/WIC/ACM International Conference on Web Intelligence (WI)}, 2016.
+  \item RobStruck: improving occlusion handling of structured tracking-by-detection using robust Kalman filter\\
+  I. Bogun, \textbf{E. Ribeiro}. \textit{IEEE International Conference on Image Processing (ICIP)}, 2016.
+  \item Discovering spatio-temporal relationships among activities in videos using a relational topic-transition model\\
+  D. Kular, \textbf{E. Ribeiro}. \textit{FLAIRS Conference}, 2016.
+  \item MBestStruck: M-best diverse sampling for structured tracker\\
+  I. Bogun, \textbf{E. Ribeiro}. \textit{British Machine Vision Conference (BMVC)}, 2016.
+  \item Pollen recognition using multi-layer feature decomposition\\
+  A. Daood, \textbf{E. Ribeiro}. \textit{FLAIRS Conference}, 2016.
+  \item Classifying frog calls using Gaussian mixture models\\
+  D. Kular, K. Hollowood, O. Ommojaro, K. Smart, M. Bush, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2015.
+  \item Analyzing activities in videos using latent Dirichlet allocation and Granger causality\\
+  D. Kular, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2015.
+  \item The Visual Object Tracking VOT2015 challenge results\\
+  M. Kristan, J. Matas, A. Leonardis, M. Felsberg, et al. (incl. \textbf{E. Ribeiro}). \textit{IEEE International Conference on Computer Vision Workshops (ICCVW)}, 2015.
+  \item Interaction recognition using sparse portraits\\
+  I. Bogun, H. Khan, J. Chen, \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2014.
+  \item Human action recognition using temporal sequence alignment\\
+  S. Almotairi, \textbf{E. Ribeiro}. \textit{International Conference on Computational Science and Computational Intelligence (CSCI)}, 2014.
+  \item Action classification using sequence alignment and shape context\\
+  S. Almotairi, \textbf{E. Ribeiro}. \textit{FLAIRS Conference}, 2014.
+  \item Recognizing human-object interactions using sparse subspace clustering\\
+  I. Bogun, \textbf{E. Ribeiro}. \textit{International Conference on Computer Analysis of Images and Patterns (CAIP)}, 2013.
+  \item 3-D mesh-classification method based on angular histograms\\
+  T. Zawadzki, S. Nikiel, \textbf{E. Ribeiro}. \textit{International Conference on Computer Graphics, Visualization and Computer Vision (WSCG)}, 2013.
+  \item A network-centric epidemic approach for automated image label annotation\\
+  M. Bohlool, R. Menezes, \textbf{E. Ribeiro}. \textit{International Workshop on Complex Networks (CompleNet)}, 2011.
+  \item A higher-order model for fluid motion estimation\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{International Conference on Image Analysis and Recognition (ICIAR)}, 2011.
+  \item Using network analysis to understand the relation between cuisine and culture\\
+  D. K. Kular, R. Menezes, \textbf{E. Ribeiro}. \textit{IEEE Network Science Workshop}, 2011.
+  \item A meshless method for variational nonrigid 2-D shape registration\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2010.
+  \item A novel consistency regularizer for meshless nonrigid image registration\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2010.
+  \item Estimating nonrigid shape deformation using moments\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2010.
+  \item Scale and rotation invariant detection of singular patterns in vector flow fields\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{IAPR Workshops on Structural, Syntactic, and Statistical Pattern Recognition (S+SSPR)}, 2010.
+  \item Adaptive tuboid shapes for action recognition\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2009.
+  \item Determining the scale of interest regions in videos\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{IEEE International Conference on Image Processing (ICIP)}, 2009.
+  \item Learning structural models in multiple projection spaces\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{International Conference on Image Analysis and Recognition (ICIAR)}, 2009.
+  \item Discovering constrained substructures in Bayesian trees using the EM algorithm\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{International Conference on Image Analysis and Recognition (ICIAR)}, 2008.
+  \item Learning human motion models from unsegmented videos\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 2008.
+  \item Recognizing primitive interactions by exploring actor-object states\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 2008.
+  \item Probabilistic combination of visual cues for object classification\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2007.
+  \item Combining models of pose and dynamics for human motion recognition\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2007.
+  \item Human motion recognition using Isomap and dynamic time warping\\
+  J. Blackburn, \textbf{E. Ribeiro}. \textit{Workshop on Human Motion (ICCV)}, 2007.
+  \item Learning repetitive patterns for classifying non-rigidly deforming texture surfaces\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{International Conference on Image Analysis and Processing (ICIAP)}, 2007.
+  \item Learning basic patterns from repetitive texture surfaces under non-rigid deformations\\
+  R. Filipovych, \textbf{E. Ribeiro}. \textit{International Conference on Image Analysis and Recognition (ICIAR)}, 2007.
+  \item Coral reef texture classification using support vector machines\\
+  A. Mehta, \textbf{E. Ribeiro}. \textit{International Conference on Computer Vision Theory and Applications (VISAPP)}, 2007.
+  \item Viewing scenes occluded by smoke\\
+  A. Donate, \textbf{E. Ribeiro}. \textit{International Symposium on Visual Computing (ISVC)}, 2006.
+  \item Classification of textures distorted by water waves\\
+  A. Donate, G. Dahme, \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2006.
+  \item Improved reconstruction of images distorted by water waves\\
+  A. Donate, \textbf{E. Ribeiro}. \textit{International Conference on Computer Vision Theory and Applications (VISAPP)}, 2006.
+  \item Spatial statistics of textons\\
+  G. Dahme, \textbf{E. Ribeiro}. \textit{International Conference on Computer Vision Theory and Applications (VISAPP)}, 2006.
+  \item Eigenvector method for texture recognition\\
+  M. Carcassoni, \textbf{E. Ribeiro}. \textit{IEEE International Conference on Image Processing (ICIP)}, 2002.
+  \item An evidence combining approach to shape-from-shading\\
+  \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2002.
+  \item Texture recognition through modal analysis of spectral peak patterns\\
+  M. Carcassoni, \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2002.
+  \item Analysis of curved textured surfaces using local spectral distortion\\
+  \textbf{E. Ribeiro}. \textit{International Conference on Advances in Pattern Recognition (ICAPR)}, 2001.
+  \item Shape-from-texture from eigenvectors of spectral distortion\\
+  \textbf{E. Ribeiro}. \textit{The Mathematics of Surfaces IX}, 2000.
+  \item Adapting spectral scale for shape from texture\\
+  \textbf{E. Ribeiro}. \textit{European Conference on Computer Vision (ECCV)}, 2000.
+  \item Perspective pose from spectral voting\\
+  \textbf{E. Ribeiro}. \textit{IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 2000.
+  \item An eigendecomposition method for shape-from-texture\\
+  \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2000.
+  \item Texture plane orientation from spectral accumulation\\
+  \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2000.
+  \item A scale adaptive method for focusing spectral peaks\\
+  \textbf{E. Ribeiro}. \textit{International Conference on Pattern Recognition (ICPR)}, 2000.
+  \item Curvature estimation using shape-from-texture\\
+  \textbf{E. Ribeiro}. \textit{IAPR Workshops on Statistical Techniques in Pattern Recognition (SSPR)}, 2000.
+  \item Improved pose estimation for texture planes using multiple vanishing points\\
+  \textbf{E. Ribeiro}. \textit{IEEE International Conference on Image Processing (ICIP)}, 1999.
+  \item A scale adaptive method for estimating the perspective pose of texture planes\\
+  \textbf{E. Ribeiro}. \textit{Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI)}, 1999.
+\end{cvitems}
+\cvsubsection{Book Chapters}
+\begin{cvitems}
+  \item Fast structured tracker with improved motion model using robust Kalman filter\\
+  I. Bogun, \textbf{E. Ribeiro}. \textit{Handbook of Pattern Recognition and Computer Vision}, 2016.
+  \item Nonrigid image registration using moments\\
+  W. Liu, \textbf{E. Ribeiro}. \textit{Emerging Topics in Computer Vision and Its Applications}, 2012.
+\end{cvitems}
+
+\cvsection{Work Experience}
+\cvsubsection{Academic}
+\role{Associate Professor of Computer Science}{Florida Institute of Technology, Melbourne, FL, USA}{2009 -- Present}
+\role{Assistant Professor of Computer Science}{Florida Institute of Technology, Melbourne, FL, USA}{2003 -- 2009}
+\role{Research Associate}{University of York, England, UK}{2000 -- 2001}
+
+\vspace{6pt}
+\cvsubsection{Industry}
+\role{Computer Vision Consultant}{SiteScape, Inc., Remote, USA}{2021 -- 2022}
+\role{Computer Vision Software Engineer}{Vicon Motion Systems, Oxford, UK}{2001 -- 2002}
+
+\cvsection{Teaching}
+\cvsubsection{Graduate Courses}
+\begin{cvitems}
+  \item CSE 5683 --- Computer Vision
+  \item CSE 5280 --- Computer Graphics Algorithms
+\end{cvitems}
+\vspace{4pt}
+\cvsubsection{Undergraduate Courses}
+\begin{cvitems}
+  \item CSE 2010 --- Data Structures and Algorithms
+  \item CSE 2050 --- Programming in a Second Language (C++)
+  \item CSE 4001 --- Operating Systems Concepts
+\end{cvitems}
+
+\cvsection{Student Supervision}
+\cvsubsection{Current Ph.D. Students}
+\begin{cvitems}
+  \item \textbf{Mahbuba Perveen} --- \textit{Indoor Layout Estimation}. TBD.
+\end{cvitems}
+\vspace{4pt}
+\cvsubsection{Graduated Ph.D. Students}
+\begin{cvitems}
+  \item \textbf{Katrina Smart} --- \textit{Automatic Identification of Anuran Species from Acoustic Signals}. Graduated Summer 2018. Scientist at ENSCO, Inc., Melbourne, FL, USA.
+  \item \textbf{Yan Li} --- \textit{Underwater Video Mosaicking and Image Classification of Coral-Reef Colonies}. Graduated Spring 2018.
+  \item \textbf{Amar Daood} --- \textit{Pollen Classification Using Deep Learning Approaches}. Graduated Fall 2017.
+  \item \textbf{Darwinderjeet Kular} --- \textit{Analyzing Motion Patterns and Behaviors of Human Activity}. Graduated Fall 2015. Senior Research Scientist at Raytheon, Melbourne, FL, USA.
+  \item \textbf{Ivan Bogun} --- \textit{Tracking and Recognition of Human--Object Interactions Using Information from Sparse Subspaces}. Graduated Spring 2015. Software Engineer at Waymo, USA.
+  \item \textbf{Sultan Almotairi} --- \textit{Human Action Recognition Using Manifold Learning}. Graduated Fall 2014. Associate Professor and Dean of the Community College, Majmaah University, Saudi Arabia.
+  \item \textbf{Wei Liu} --- \textit{Polynomial Models in Nonrigid Motion Estimation and Analysis}. Graduated Spring 2011. Common Wealth Bank, Sydney, Australia.
+  \item \textbf{Roman Filipovych} --- \textit{Learning the Spatial Structure of Motion Patterns for Tracking and Recognition}. Graduated Fall 2009. Microsoft.com, WA, USA.
+\end{cvitems}
+\vspace{4pt}
+\newpage
+\cvsubsection{Graduated M.Sc.\ (Thesis) Students}
+\begin{cvitems}
+  \item \textbf{Qinxin Fu} --- \textit{Interpolation of 2-D Vector Fields}. Graduated Fall 2015.
+  \item \textbf{Weisi Ding} --- \textit{3-D Shape and Image Registration Using Image Moments}. Graduated Spring 2012. Automation Engineer at Wilbur-Ellis, WA, USA.
+  \item \textbf{Miles Wallio} --- \textit{Tracking Nonrigid Surface Deformations}. Graduated Spring 2012. Microsoft, WA, USA.
+  \item \textbf{Faisal Badughaish} --- \textit{Seismic Data Analysis}. Graduated Spring 2011. Saudi Aramco, Saudi Arabia.
+  \item \textbf{Jaron Blackburn} --- \textit{Manifold Learning and Motion-Pattern Matching}. Graduated Fall 2008. Harris Corporation, USA.
+  \item \textbf{Arturo Donate} --- \textit{Reconstructing Dynamic Scenes}. Graduated Summer 2006. Booz Allen Hamilton, USA.
+\end{cvitems}
+
+\cvsection{Professional Service}
+\cvsubsection{Journal Editorial Boards}
+\begin{cvitems}
+  \item Associate Editor, \textit{Pattern Recognition} (Elsevier), since 2019.
+  \item Associate Editor, \textit{Signal, Image and Video Processing} (Springer), since 2013.
+  \item Associate Editor, \textit{Machine Vision and Applications} (Springer), since 2005.
+\end{cvitems}
+\vspace{4pt}
+\cvsubsection{Grant-Proposal Review}
+\begin{cvitems}
+  \item U.S. National Science Foundation (NSF) review panel, Computer Vision --- 2004, 2005, 2008.
+  \item Frequent reviewer of grant proposals for the Czech Science Foundation (GA\v{C}R).
+\end{cvitems}
+\vspace{4pt}
+\cvsubsection{Journal Reviewing}
+Frequent reviewer for \textit{IEEE Transactions on Image Processing}; \textit{IEEE Transactions on
+Geoscience and Remote Sensing}; \textit{IEEE Transactions on Systems, Man, and Cybernetics};
+\textit{IEEE Signal Processing Letters}; \textit{Machine Vision and Applications}; \textit{Computer
+Vision and Image Understanding}; and \textit{Pattern Recognition}.\par
+\vspace{4pt}
+\cvsubsection{Conference Reviewing}
+Frequent reviewer for IEEE ICIP, IAPR ICPR, IAPR ICIAP, IAPR DICTA, the International Symposium
+on Visual Computing (ISVC), and ICIAR.\par
+
+\cvsection{References}
+Available upon request.
+
+\end{document}

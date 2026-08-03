@@ -1,0 +1,65 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg" role="img" font-family="Helvetica, Arial, sans-serif">
+<title>Automated recognition of frog calls — research infographic</title>
+<desc>A five-stage pipeline from field audio to species identification, with highlight cards for approaches, field platform, and NSF funding.</desc>
+<rect x="2" y="2" width="996" height="596" rx="16" fill="#ffffff" stroke="#e4e0d8" stroke-width="2"/>
+<text x="40" y="56" font-family="Georgia, serif" font-size="33" font-weight="700" fill="#1c1b19">Automated recognition of frog calls</text>
+<text x="41" y="85" font-size="16" fill="#56524c">Listening to biodiversity with machine learning</text>
+<polyline points="680,64 690,50 700,72 710,42 720,74 730,40 740,74 750,52 760,66 770,46 780,72 790,46 800,70 810,54 820,64 830,48 840,74 850,42 860,74 870,52 880,68 890,46 900,72 910,56 920,62 930,58 940,64" fill="none" stroke="#1d9e75" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="40" y1="104" x2="960" y2="104" stroke="#e4e0d8" stroke-width="2"/>
+<text x="40" y="135" font-size="12.5" font-weight="700" fill="#7a1f2b" letter-spacing="1.5">THE RECOGNITION PIPELINE</text>
+<line x1="44" y1="183" x2="44" y2="495" stroke="#e4e0d8" stroke-width="2"/>
+<g>
+<rect x="70" y="150" width="570" height="66" rx="10" fill="#ffffff" stroke="#e4e0d8" stroke-width="1.5"/>
+<circle cx="44" cy="183" r="16" fill="#7a1f2b"/>
+<text x="44" y="188" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="90" y="181" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1c1b19">Field audio</text>
+<text x="90" y="202" font-size="13" fill="#56524c">Passive acoustic recordings from the field</text>
+</g>
+<g>
+<rect x="70" y="228" width="570" height="66" rx="10" fill="#ffffff" stroke="#e4e0d8" stroke-width="1.5"/>
+<circle cx="44" cy="261" r="16" fill="#7a1f2b"/>
+<text x="44" y="266" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="90" y="259" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1c1b19">Spectrogram</text>
+<text x="90" y="280" font-size="13" fill="#56524c">Time–frequency image of the call</text>
+</g>
+<g>
+<rect x="70" y="306" width="570" height="66" rx="10" fill="#ffffff" stroke="#e4e0d8" stroke-width="1.5"/>
+<circle cx="44" cy="339" r="16" fill="#7a1f2b"/>
+<text x="44" y="344" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="90" y="337" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1c1b19">Feature extraction</text>
+<text x="90" y="358" font-size="13" fill="#56524c">Filter bank → acoustic shape vocabulary</text>
+</g>
+<g>
+<rect x="70" y="384" width="570" height="66" rx="10" fill="#ffffff" stroke="#e4e0d8" stroke-width="1.5"/>
+<circle cx="44" cy="417" r="16" fill="#7a1f2b"/>
+<text x="44" y="422" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="90" y="415" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1c1b19">Model and classify</text>
+<text x="90" y="436" font-size="13" fill="#56524c">Structural spectral model, or deep CNN + RNN</text>
+</g>
+<g>
+<rect x="70" y="462" width="570" height="66" rx="10" fill="#ffffff" stroke="#e4e0d8" stroke-width="1.5"/>
+<circle cx="44" cy="495" r="16" fill="#7a1f2b"/>
+<text x="44" y="500" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="90" y="493" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1c1b19">Species identified</text>
+<text x="90" y="514" font-size="13" fill="#56524c">Ranked list of matched species</text>
+</g>
+<rect x="680" y="150" width="280" height="150" rx="12" fill="#e1f5ee" stroke="#5dcaa5" stroke-width="1.5"/>
+<text x="700" y="181" font-size="15" font-weight="700" fill="#04342c">Two complementary approaches</text>
+<rect x="700" y="196" width="240" height="34" rx="8" fill="#ffffff" stroke="#9fe1cb" stroke-width="1.5"/>
+<text x="712" y="218" font-size="13" fill="#0f6e56">Structural spectral model</text>
+<rect x="700" y="238" width="240" height="34" rx="8" fill="#ffffff" stroke="#9fe1cb" stroke-width="1.5"/>
+<text x="712" y="260" font-size="13" fill="#0f6e56">Deep CNN + RNN classifier</text>
+<rect x="680" y="314" width="280" height="120" rx="12" fill="#faeeda" stroke="#fac775" stroke-width="1.5"/>
+<text x="700" y="344" font-size="15" font-weight="700" fill="#633806">Field platform</text>
+<text x="700" y="368" font-size="13" fill="#633806">Mobile app + web mapping</text>
+<text x="700" y="388" font-size="13" fill="#633806">dashboard for crowd-sourced</text>
+<text x="700" y="408" font-size="13" fill="#633806">biodiversity monitoring</text>
+<rect x="680" y="448" width="280" height="140" rx="12" fill="#f1efe8" stroke="#d3d1c7" stroke-width="1.5"/>
+<rect x="700" y="466" width="60" height="28" rx="6" fill="#7a1f2b"/>
+<text x="730" y="485" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">NSF</text>
+<text x="772" y="485" font-size="13" fill="#444441">competitive grant</text>
+<line x1="700" y1="510" x2="940" y2="510" stroke="#d3d1c7" stroke-width="1.5"/>
+<text x="700" y="532" font-size="11.5" font-weight="700" fill="#7a1f2b" letter-spacing="0.5">REPRESENTATIVE PAPER</text>
+<text x="700" y="552" font-size="12.5" fill="#444441">Strout, Rogan, Seyednezhad,</text>
+<text x="700" y="569" font-size="12.5" fill="#444441">Bush, Ribeiro — IEEE ICASSP 2017</text>
+</svg>
